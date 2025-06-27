@@ -1,40 +1,248 @@
 {
-  "transport": [
+  "users": [
     {
       "id": 1,
-      "title": "Exploring Nairobi's Matatu Culture",
-      "category": "Public Transport",
-      "image": "https://media.istockphoto.com/id/2216228431/photo/colorful-matatu-on-nairobi-street-with-japanese-inspired-graffiti-december-22-2024.jpg?s=612x612&w=0&k=20&c=YqQNFfbzWumlWI2-u82IQUKBss7tLjDYw5PxsS9G4do=",
-      "author": "Francis Karani",
-      "content": "Matatus are more than just a mode of transport in Nairobi—they are a bold expression of creativity and identity. From their colorful graffiti-style art to booming music systems, matatus reflect the heartbeat of urban Kenya. They follow flexible routes and offer affordable travel, but navigating their system can be confusing for newcomers. Despite occasional chaos, they remain a symbol of freedom and youth culture in the city.",
-      "date": "2025-06-01"
+      "name": "Alice Wanjiku",
+      "email": "alice.wanjiku@example.com",
+      "password": "alice123",
+      "country": "kenya",
+      "county": "Nairobi"
+    },
+    {
+      "id": 2,
+      "name": "John Otieno",
+      "email": "john.otieno@example.com",
+      "password": "john456",
+      "country": "kenya",
+      "county": "Kisumu"
     },
     {
       "id": 3,
-      "title": "The Rise of Boda Bodas in Urban Kenya",
-      "category": "Motorbike Transport",
-      "image": "https://media.istockphoto.com/id/458078285/photo/malindi.jpg?s=612x612&w=0&k=20&c=GNq_a3taIEc1QYcr303OF4VAeDngH6yB-_GDmK5Ssy8=",
-      "author": "Racheal Njeri",
-      "content": "Boda bodas, or motorbike taxis, have become an essential part of Kenya's urban transport. Their ability to zip through traffic and reach narrow or remote areas makes them extremely convenient. However, safety remains a concern. Helmets are often ignored, and many riders lack proper training. As the industry grows, regulation and rider education will be vital for reducing accidents and improving reliability.",
-      "date": "2025-06-05"
+      "name": "Fatuma Noor",
+      "email": "fatuma.noor@example.com",
+      "password": "fatuma789",
+      "country": "kenya",
+      "county": "Garissa"
     },
     {
       "id": 4,
-      "title": "Using Ride Apps Like Uber and Bolt",
-      "category": "Digital Transport",
-      "image": "https://media.istockphoto.com/id/2198565871/photo/senior-man-using-a-navigation-app-while-driving-his-car.jpg?s=612x612&w=0&k=20&c=Kn72yoLSUg3g6mxiaZI8m3BoX7srjZKozrQ0B9lpoIQ=",
-      "author": "Alex Karani",
-      "content": "Ride-hailing apps have changed the way people move around Kenyan cities. With just a few taps, you can summon a car or boda boda and get a fare estimate instantly. Apps like Uber, Bolt, and Little Cab offer convenience and digital payment options. To stay safe, always double-check driver details, share your ride with someone you trust, and avoid long conversations about personal information with drivers.",
-      "date": "2025-06-08"
+      "name": "Michael Kamau",
+      "email": "michael.kamau@example.com",
+      "password": "mike321",
+      "country": "kenya",
+      "county": "Kiambu"
     },
     {
       "id": 5,
-      "title": "Nairobi Expressway: What You Need to Know",
-      "category": "Infrastructure",
-      "image": "https://media.istockphoto.com/id/1915970290/photo/nairobi-expressway-toll-road-in-kenya.jpg?s=612x612&w=0&k=20&c=f8MYue7EBYO6b6y8-iPV31veUKnXBebqvWgLMNzYPEs=",
-      "author": "Felista Wairimu",
-      "content": "The Nairobi Expressway has significantly eased traffic flow for motorists traveling between Mlolongo, the CBD, and Westlands. It’s a toll road with digital and manual payment options. Though it saves time, toll fees can add up, especially during peak hours. Motorists should familiarize themselves with entry/exit points and consider the expressway only when time is more valuable than the toll cost.",
-      "date": "2025-06-10"
+      "name": "Beatrice Mwende",
+      "email": "beatrice.mwende@example.com",
+      "password": "bea123",
+      "country": "kenya",
+      "county": "Machakos"
+    },
+    {
+      "name": "Francis Karani",
+      "email": "test@gmail.com",
+      "password": "K909090",
+      "country": "Kenya",
+      "county": "Laikipia",
+      "id": 6
+    },
+    {
+      "name": "Naomi Nyanswi",
+      "email": "emailgmail.com",
+      "password": "090909",
+      "country": "Kenya",
+      "county": "Migori",
+      "id": 7
+    },
+    {
+      "name": "Gillo",
+      "email": "gilo@gmail.com",
+      "password": "343434",
+      "country": "Kenya",
+      "county": "Laikipia",
+      "id": 8
+    },
+    {
+      "name": "david",
+      "email": "da@gmail.com",
+      "password": "55555",
+      "country": "Kenya",
+      "county": "Laikipia",
+      "id": 9
+    },
+    {
+      "name": "melanie",
+      "email": "m@gmail.com",
+      "password": "77777",
+      "country": "Kenya",
+      "county": "lamu",
+      "id": 10
+    },
+    {
+      "name": "akinyi",
+      "email": "a@gmail.com",
+      "password": "99999",
+      "country": "Kenya",
+      "county": "Laikipia",
+      "id": 11
+    },
+    {
+      "name": "AI",
+      "email": "ai@gmail.com",
+      "password": "1234",
+      "country": "Kenya",
+      "county": "kisumu",
+      "id": 12
+    },
+    {
+      "name": "Brenda Ngunjiri",
+      "email": "b@gmail.com",
+      "password": "121212",
+      "country": "Kenya",
+      "county": "kajiado",
+      "id": 13
+    },
+    {
+      "name": "wow",
+      "email": "wow@gmail.com",
+      "password": "8898989",
+      "country": "Kenya",
+      "county": "Migori",
+      "id": 14
+    },
+    {
+      "name": "karani",
+      "email": "karani@gmail.com",
+      "password": "karani",
+      "country": "Kenya",
+      "county": "Laikipia",
+      "id": 15
+    },
+    {
+      "name": "peter",
+      "email": "peter@gmail.com",
+      "password": "peter",
+      "country": "Kenya",
+      "county": "Migori",
+      "id": 16
+    },
+    {
+      "name": "Dennis",
+      "email": "dennis@gmail.com",
+      "password": "dennin",
+      "country": "Kenya",
+      "county": "Nairobi",
+      "id": 17
+    },
+    {
+      "name": "tm",
+      "email": "tm@gmail.com",
+      "password": "797979",
+      "country": "kenya",
+      "county": "laikipia",
+      "id": 18
+    },
+    {
+      "name": "solomon",
+      "email": "solo@gmail.com",
+      "password": "898989",
+      "country": "kenya",
+      "county": "laikipia",
+      "id": 19
+    },
+    {
+      "name": "Brenda Ngunjiri",
+      "email": "test@gmail.com",
+      "password": "989898",
+      "country": "Kenya",
+      "county": "kajiado",
+      "id": 20
+    }
+  ],
+  "bills": [
+    {
+      "id": 1,
+      "title": "Plastic Ban Act",
+      "summary": "This bill aims to eliminate the use of single-use plastic bags in all retail and grocery outlets across the country. It seeks to reduce environmental pollution, especially in water bodies and urban drainage systems, by enforcing a complete ban and promoting the use of biodegradable alternatives.",
+      "status": "Pending",
+      "sponsor": "Hon. John Karanja",
+      "dateProposed": "2025-05-01"
+    },
+    {
+      "id": 2,
+      "title": "Youth Employment Bill",
+      "summary": "The Youth Employment Bill proposes tax incentives and subsidies for companies that prioritize hiring fresh graduates and youth under the age of 30. The bill emphasizes the importance of reducing unemployment rates by creating more entry-level opportunities and nurturing young professionals through internship and apprenticeship programs.",
+      "status": "In Committee",
+      "sponsor": "Hon. Mary Atieno",
+      "dateProposed": "2025-04-18"
+    },
+    {
+      "id": 3,
+      "title": "Affordable Housing Act",
+      "summary": "This act mandates the allocation of at least 5% of the national budget to fund the development of affordable housing units in key urban areas. It aims to address the growing housing deficit by targeting low-income earners and ensuring equitable distribution of housing resources across counties.",
+      "status": "Passed",
+      "sponsor": "Hon. Peter Wekesa",
+      "dateProposed": "2025-03-10"
+    },
+    {
+      "id": 4,
+      "title": "Public Transport Improvement Bill",
+      "summary": "This bill proposes a countrywide modernization of the public transport system. It includes the introduction of smart fare systems, upgrading the public bus fleets to eco-friendly models, and improving passenger safety standards. The objective is to provide reliable, clean, and efficient transport services for all citizens.",
+      "status": "Awaiting Presidential Assent",
+      "sponsor": "Hon. Amina Yusuf",
+      "dateProposed": "2025-02-22"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "billName": "Plastic Ban Act",
+      "author": "Francis Karani",
+      "comment": "Consider adding a grace period before the plastic ban takes effect to allow businesses to adjust."
+    },
+    {
+      "id": 2,
+      "billName": "Youth Employment Bill",
+      "author": "John Otieno",
+      "comment": "The bill should also include provisions for vocational training to enhance youth employability."
+    },
+    {
+      "id": 3,
+      "billName": "Affordable Housing Act",
+      "author": "Alice Wanjiku",
+      "comment": "Please clarify how the 5% housing budget will be distributed across counties to ensure equity."
+    },
+    {
+      "billName": "Public Transport Improvement Bill",
+      "author": "karani",
+      "comment": "The bill emphasizes the importance of reducing unemployment rates by creating more entry-level opportunities and nurturing young professionals through internship and apprenticeship programs",
+      "id": 4
+    },
+    {
+      "billName": "Alice Wanjiku",
+      "author": "Affordable Housing Act",
+      "comment": "Please clarify how the 5% housing budget will be distributed across counties to ensure equity",
+      "id": 5
+    },
+    {
+      "billName": "John Otieno",
+      "author": "Youth Employment Bill",
+      "comment": "The bill should also include provisions for vocational training to enhance youth employability.",
+      "id": 6
+    },
+    {
+      "billName": "John Otieno",
+      "author": "john",
+      "comment": "The bill should also include provisions for vocational training to enhance youth employability.",
+      "id": 7
+    },
+    {
+      "billName": "John Otieno",
+      "author": "john",
+      "comment": "The bill should also include provisions for vocational training to enhance youth employability.",
+      "id": 8
     }
   ]
 }
