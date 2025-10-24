@@ -490,8 +490,169 @@
       "price": 4200,
       "sizes": "35-45"
     }
+  ],
+  
+  "groups": [
+    {
+      "id": 1,
+      "name": "Frontend Developers",
+      "topic": "Building beautiful UIs with React and Tailwind",
+      "members": 128,
+      "activity": "very active"
+    },
+    {
+      "id": 2,
+      "name": "Backend Engineers",
+      "topic": "APIs, databases, and scaling microservices",
+      "members": 93,
+      "activity": "active"
+    },
+    {
+      "id": 3,
+      "name": "AI Innovators",
+      "topic": "Machine Learning, LLMs, and Neural Networks",
+      "members": 147,
+      "activity": "very active"
+    },
+    {
+      "id": 4,
+      "name": "Data Science Hub",
+      "topic": "Python, Pandas, data visualization and insights",
+      "members": 88,
+      "activity": "moderate"
+    },
+    {
+      "id": 5,
+      "name": "Startup Founders",
+      "topic": "MVPs, fundraising, and startup growth tips",
+      "members": 59,
+      "activity": "active"
+    },
+     {
+      "id": 5,
+      "name": "Startup Founders",
+      "topic": "MVPs, fundraising, and startup growth tips",
+      "members": 59,
+      "activity": "active"
+    }
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "trending": "Web Development",
+      "topic": "React 19 is finally here — what’s new?",
+      "postedBy": "Alex M.",
+      "hoursAgo": 2,
+      "likes": 56,
+      "replies": 14
+    },
+    {
+      "id": 2,
+      "trending": "AI/ML",
+      "topic": "OpenAI’s new model now supports longer context windows.",
+      "postedBy": "Sophia K.",
+      "hoursAgo": 5,
+      "likes": 89,
+      "replies": 27
+    },
+    {
+      "id": 3,
+      "trending": "Data Science",
+      "topic": "How to clean large datasets efficiently using Polars.",
+      "postedBy": "Michael T.",
+      "hoursAgo": 8,
+      "likes": 44,
+      "replies": 12
+    },
+    {
+      "id": 4,
+      "trending": "AI/ML",
+      "topic": "Fine-tuning open LLMs locally — my setup and benchmarks.",
+      "postedBy": "Linda C.",
+      "hoursAgo": 1,
+      "likes": 102,
+      "replies": 33
+    },
+    {
+      "id": 5,
+      "trending": "Startup",
+      "topic": "We just launched our MVP on Product Hunt 🎉",
+      "postedBy": "Chris J.",
+      "hoursAgo": 10,
+      "likes": 67,
+      "replies": 19
+    },
+    {
+      "id": 6,
+      "trending": "Web Development",
+      "topic": "Why Tailwind CSS is dominating the frontend world.",
+      "postedBy": "Naomi L.",
+      "hoursAgo": 3,
+      "likes": 48,
+      "replies": 9
+    }
+  ],
+  "Overview":[
+    {
+  "id": 7,
+  "title": "Full Web Development Masterclass",
+  "thumbnail": "data:image/png;base64,BASE64_IMAGE_7",
+  "description": "Master web development from scratch with HTML, CSS, JavaScript, React, and Node.js. Build real-world projects and deploy them.",
+  "duration": 14,
+  "owner": "Francis Karani",
+  "status": "active",
+  "difficulty": "Advanced",
+  "enrollment_count": 250,
+  "tags": "html,css,javascript,react,nodejs,fullstack",
+  "ratings": 5,
+  "review_count": 60,
+  "objectives": [
+    "Build responsive websites with HTML & CSS",
+    "Master modern JavaScript (ES6+)",
+    "Create interactive UIs with React",
+    "Build backend APIs with Node.js",
+    "Deploy applications to the cloud",
+    "Work with databases and authentication"
+  ],
+  "created_at": "2025-10-22T10:00:00Z",
+  "updated_at": null
+}
+
+  ],
+  "resources": [
+    {
+      "id": 1,
+      "file_name": "Course Slides - Getting Started.pdf",
+      "file_type": "pdf",
+      "file_size": "2.4 MB",
+      "url": "files/course-slides-getting-started.pdf"
+    },
+    {
+      "id": 2,
+      "file_name": "HTML Cheat Sheet.pdf",
+      "file_type": "pdf",
+      "file_size": "1.1 MB",
+      "url": "files/html-cheat-sheet.pdf"
+    },
+    {
+      "id": 3,
+      "file_name": "CSS Reference Guide.pdf",
+      "file_type": "pdf",
+      "file_size": "3.2 MB",
+      "url": "files/css-reference-guide.pdf"
+    },
+    {
+      "id": 4,
+      "file_name": "Source Code - Section 1.zip",
+      "file_type": "zip",
+      "file_size": "856 KB",
+      "url": "files/source-code-section-1.zip"
+    }
   ]
 }
+
+
 
 
 
