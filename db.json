@@ -779,7 +779,170 @@
     "status": "Published",
     "revenue": "$59,360"
   }
+],
+"manage_users"[
+  {
+    "id": 1,
+    "name": "Alex Thompson",
+    "email": "alex.thompson@example.com",
+    "enrolledCourses": 5,
+    "status": "Active",
+    "joinDate": "Jan 15, 2024"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Martinez",
+    "email": "sarah.martinez@example.com",
+    "enrolledCourses": 3,
+    "status": "Active",
+    "joinDate": "Feb 03, 2024"
+  },
+  {
+    "id": 3,
+    "name": "Michael Chen",
+    "email": "michael.chen@example.com",
+    "enrolledCourses": 7,
+    "status": "Active",
+    "joinDate": "Dec 20, 2023"
+  },
+  {
+    "id": 4,
+    "name": "Emily Johnson",
+    "email": "emily.johnson@example.com",
+    "enrolledCourses": 2,
+    "status": "Inactive",
+    "joinDate": "Mar 10, 2024"
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "enrolledCourses": 4,
+    "status": "Active",
+    "joinDate": "Jan 28, 2024"
+  },
+  {
+    "id": 6,
+    "name": "Grace Kim",
+    "email": "grace.kim@example.com",
+    "enrolledCourses": 6,
+    "status": "Active",
+    "joinDate": "Feb 12, 2024"
+  },
+  {
+    "id": 7,
+    "name": "Ethan Brooks",
+    "email": "ethan.brooks@example.com",
+    "enrolledCourses": 1,
+    "status": "Inactive",
+    "joinDate": "Apr 01, 2024"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Patel",
+    "email": "sophia.patel@example.com",
+    "enrolledCourses": 8,
+    "status": "Active",
+    "joinDate": "Dec 08, 2023"
+  },
+  {
+    "id": 9,
+    "name": "Liam Anderson",
+    "email": "liam.anderson@example.com",
+    "enrolledCourses": 3,
+    "status": "Active",
+    "joinDate": "Jan 06, 2024"
+  },
+  {
+    "id": 10,
+    "name": "Ava Gonzalez",
+    "email": "ava.gonzalez@example.com",
+    "enrolledCourses": 2,
+    "status": "Inactive",
+    "joinDate": "Mar 18, 2024"
+  },
+  {
+    "id": 11,
+    "name": "Noah Walker",
+    "email": "noah.walker@example.com",
+    "enrolledCourses": 9,
+    "status": "Active",
+    "joinDate": "Nov 22, 2023"
+  },
+  {
+    "id": 12,
+    "name": "Olivia Rivera",
+    "email": "olivia.rivera@example.com",
+    "enrolledCourses": 5,
+    "status": "Active",
+    "joinDate": "Jan 11, 2024"
+  },
+  {
+    "id": 13,
+    "name": "Benjamin Lee",
+    "email": "benjamin.lee@example.com",
+    "enrolledCourses": 4,
+    "status": "Active",
+    "joinDate": "Feb 20, 2024"
+  },
+  {
+    "id": 14,
+    "name": "Chloe Davis",
+    "email": "chloe.davis@example.com",
+    "enrolledCourses": 6,
+    "status": "Active",
+    "joinDate": "Dec 30, 2023"
+  },
+  {
+    "id": 15,
+    "name": "Daniel White",
+    "email": "daniel.white@example.com",
+    "enrolledCourses": 2,
+    "status": "Inactive",
+    "joinDate": "Mar 05, 2024"
+  },
+  {
+    "id": 16,
+    "name": "Mia Robinson",
+    "email": "mia.robinson@example.com",
+    "enrolledCourses": 5,
+    "status": "Active",
+    "joinDate": "Jan 25, 2024"
+  },
+  {
+    "id": 17,
+    "name": "Lucas Turner",
+    "email": "lucas.turner@example.com",
+    "enrolledCourses": 7,
+    "status": "Active",
+    "joinDate": "Dec 14, 2023"
+  },
+  {
+    "id": 18,
+    "name": "Isabella Scott",
+    "email": "isabella.scott@example.com",
+    "enrolledCourses": 3,
+    "status": "Inactive",
+    "joinDate": "Apr 07, 2024"
+  },
+  {
+    "id": 19,
+    "name": "Henry Evans",
+    "email": "henry.evans@example.com",
+    "enrolledCourses": 4,
+    "status": "Active",
+    "joinDate": "Feb 08, 2024"
+  },
+  {
+    "id": 20,
+    "name": "Ella Mitchell",
+    "email": "ella.mitchell@example.com",
+    "enrolledCourses": 6,
+    "status": "Active",
+    "joinDate": "Jan 30, 2024"
+  }
 ]
+
 
 }
 
