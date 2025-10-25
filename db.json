@@ -649,7 +649,138 @@
       "file_size": "856 KB",
       "url": "files/source-code-section-1.zip"
     }
-  ]
+  ],
+  "course_management":[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "Sarah Johnson",
+    "students": 12450,
+    "status": "Published",
+    "revenue": "$111,050"
+  },
+  {
+    "id": 2,
+    "title": "Data Science & Machine Learning",
+    "instructor": "Dr. Michael Chen",
+    "students": 9840,
+    "status": "Published",
+    "revenue": "$93,456"
+  },
+  {
+    "id": 3,
+    "title": "Digital Marketing Masterclass",
+    "instructor": "Emily Rodriguez",
+    "students": 15230,
+    "status": "Published",
+    "revenue": "$121,840"
+  },
+  {
+    "id": 4,
+    "title": "Business Strategy & Leadership",
+    "instructor": "Robert Williams",
+    "students": 25430,
+    "status": "Published",
+    "revenue": "$254,300"
+  },
+  {
+    "id": 5,
+    "title": "Advanced JavaScript & TypeScript",
+    "instructor": "John Smith",
+    "students": 8450,
+    "status": "Draft",
+    "revenue": "$0"
+  },
+  {
+    "id": 6,
+    "title": "UI/UX Design Essentials",
+    "instructor": "Laura Kim",
+    "students": 10320,
+    "status": "Published",
+    "revenue": "$98,600"
+  },
+  {
+    "id": 7,
+    "title": "Python for Beginners",
+    "instructor": "Daniel O'Connor",
+    "students": 18760,
+    "status": "Published",
+    "revenue": "$175,240"
+  },
+  {
+    "id": 8,
+    "title": "React Frontend Developer Guide",
+    "instructor": "Francis Karani",
+    "students": 9100,
+    "status": "Published",
+    "revenue": "$88,500"
+  },
+  {
+    "id": 9,
+    "title": "Full-Stack Developer with Node.js",
+    "instructor": "Angela Martins",
+    "students": 16400,
+    "status": "Published",
+    "revenue": "$159,800"
+  },
+  {
+    "id": 10,
+    "title": "Cloud Computing with AWS",
+    "instructor": "Kevin Patel",
+    "students": 7420,
+    "status": "Draft",
+    "revenue": "$0"
+  },
+  {
+    "id": 11,
+    "title": "Cybersecurity Fundamentals",
+    "instructor": "James Njoroge",
+    "students": 13400,
+    "status": "Published",
+    "revenue": "$120,750"
+  },
+  {
+    "id": 12,
+    "title": "Photography & Lightroom Basics",
+    "instructor": "Hannah Lee",
+    "students": 5200,
+    "status": "Published",
+    "revenue": "$47,320"
+  },
+  {
+    "id": 13,
+    "title": "Mobile App Development with Flutter",
+    "instructor": "David Kimani",
+    "students": 8800,
+    "status": "Published",
+    "revenue": "$83,440"
+  },
+  {
+    "id": 14,
+    "title": "Artificial Intelligence Foundations",
+    "instructor": "Prof. Anita Desai",
+    "students": 9900,
+    "status": "Published",
+    "revenue": "$91,700"
+  },
+  {
+    "id": 15,
+    "title": "Entrepreneurship & Startup Growth",
+    "instructor": "Peter Mwangi",
+    "students": 11900,
+    "status": "Published",
+    "revenue": "$108,050"
+  },
+  {
+    "id": 16,
+    "title": "Blockchain & Cryptocurrency 101",
+    "instructor": "Lucy Owino",
+    "students": 6400,
+    "status": "Published",
+    "revenue": "$59,360"
+  }
+]
+
 }
 
 
